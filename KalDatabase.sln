@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KalDatabase", "KalDatabase\KalDatabase.csproj", "{77AB5D13-A268-4E08-9A0B-0FAB545CA919}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KalDatabaseTests", "KalDatabaseTests\KalDatabaseTests.csproj", "{BFAFD78D-BEB4-43FA-985A-B54D378970A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77AB5D13-A268-4E08-9A0B-0FAB545CA919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77AB5D13-A268-4E08-9A0B-0FAB545CA919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77AB5D13-A268-4E08-9A0B-0FAB545CA919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77AB5D13-A268-4E08-9A0B-0FAB545CA919}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFAFD78D-BEB4-43FA-985A-B54D378970A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFAFD78D-BEB4-43FA-985A-B54D378970A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFAFD78D-BEB4-43FA-985A-B54D378970A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFAFD78D-BEB4-43FA-985A-B54D378970A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Dev\Visual Studio\KalDatabase\KalDatabaseTests\bin\Debug\KalDatabaseTests.dll
+C:\Dev\Visual Studio\KalDatabase\KalDatabaseTests\bin\Debug\KalDatabaseTests.pdb
+C:\Dev\Visual Studio\KalDatabase\KalDatabaseTests\bin\Debug\KalDatabase.exe
+C:\Dev\Visual Studio\KalDatabase\KalDatabaseTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Dev\Visual Studio\KalDatabase\KalDatabaseTests\bin\Debug\MySql.Data.dll
+C:\Dev\Visual Studio\KalDatabase\KalDatabaseTests\bin\Debug\KalDatabase.pdb
+C:\Dev\Visual Studio\KalDatabase\KalDatabaseTests\obj\Debug\KalDatabaseTests.csprojResolveAssemblyReference.cache
+C:\Dev\Visual Studio\KalDatabase\KalDatabaseTests\obj\Debug\KalDatabaseTests.dll
+C:\Dev\Visual Studio\KalDatabase\KalDatabaseTests\obj\Debug\KalDatabaseTests.pdb
